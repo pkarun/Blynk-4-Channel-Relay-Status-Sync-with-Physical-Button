@@ -41,6 +41,9 @@ TX or 1 to GND (in NodeMCU)<br>
 
 5) Go to the settings.h tab. This is where all the customisable settings are. You should be able to change almost everything from there before compiling.<br>
 
+<h2> Video Demo</h2>
+[![](http://img.youtube.com/vi/VLyBV3FR0_M/0.jpg)](http://www.youtube.com/watch?v=VLyBV3FR0_M "")
+
 <h2>Screenshots</h2>
 
 <h3>Project Screenshots</h3>
@@ -49,10 +52,10 @@ TX or 1 to GND (in NodeMCU)<br>
 <img src="/images/blynk/blynk-button-settings.png" width="400" height=""alt="blynk button settings" title="blynk button settings">
 
 <h3>Project Setup</h3>
-<img src="/images/setup/1.jpg" width="400" height=""alt="1" title="1">
-<img src="/images/setup/2.jpg" width="400" height=""alt="2" title="2">
-<img src="/images/setup/3.jpg" width="400" height=""alt="3" title="3">
-<img src="/images/setup/4.jpg" width="400" height=""alt="3" title="3">
+<img src="/images/setup/1.jpg" width="650" height=""alt="1" title="1">
+<img src="/images/setup/2.jpg" width="650" height=""alt="2" title="2">
+<img src="/images/setup/3.jpg" width="650" height=""alt="3" title="3">
+<img src="/images/setup/4.jpg" width="650" height=""alt="3" title="3">
 
 <h2>Scan QR Code on Blynk App</h2>
 <img src="/images/blynk/project-qr-code.png" width="400" height=""alt="Scan QR Code on Blynk App" title="Scan QR Code on Blynk App">
