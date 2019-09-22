@@ -42,7 +42,7 @@ TX or 1 to GND (in NodeMCU)<br>
 5) Go to the settings.h tab. This is where all the customisable settings are. You should be able to change almost everything from there before compiling.<br>
 
 <h2> Video Demo</h2>
-[![](http://img.youtube.com/vi/VLyBV3FR0_M/0.jpg)](http://www.youtube.com/watch?v=VLyBV3FR0_M "")
+<a href="https://www.youtube.com/watch?v=VLyBV3FR0_M"><img src="https://img.youtube.com/vi/VLyBV3FR0_M/0.jpg" width="400" height=""alt="project screenshot" title="project screenshot"> </a>
 
 <h2>Screenshots</h2>
 
